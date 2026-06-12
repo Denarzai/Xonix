@@ -5,6 +5,12 @@ Xonix is a C++17 SFML game built as a university Data Structures project. It ext
 
 The application is organized around a central state machine in `src/main.cpp`, with dedicated screens for login, registration, menus, gameplay, multiplayer flow, leaderboard, profile, friends, themes, and saved games.
 
+## Screenshots
+
+| Main Menu | Gameplay | Theme Inventory |
+|-----------|----------|-----------------|
+| ![Main menu](screenshots/main-menu.png) | ![Gameplay](screenshots/gameplay.png) | ![Theme menu](screenshots/theme-menu.png) |
+
 ## Tech Stack
 - C++17
 - SFML for graphics, windowing, audio, and network support

@@ -1,0 +1,4 @@
+3
+0|Classic|Original Xonix theme|../images/tiles0.png|../images/enemy0.png|../images/bg0.png|255,255,255|255,0,0
+1|Starforge|Blue and cyan underwater theme|../images/tiles1.png|../images/enemy1.png|../images/bg1.png|0,255,255|0,0,255
+2|Hellscape|Vibrant neon theme|../images/tiles2.png|../images/enemy2.png|../images/bg2.png|255,255,0|255,0,255
